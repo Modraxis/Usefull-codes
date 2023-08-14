@@ -1,3 +1,6 @@
+// This code help you to allow subspace or not allow in your mod
+
+
 const Subspace_allow = true; // Set to true if you want to allow subspace users, otherwise set to false
 
 function Subspace_Detector(ship) {
