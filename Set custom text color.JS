@@ -1,4 +1,4 @@
-//You can use this code for changing the text color of modding terminal
+//This code lets you customize the text color of the modding console.
 game.modding.terminal.echo = (function (echo) {
     const textcolor = "#cde";// put alphabets color there
     const Numbercolor = "#cde";// put numbers color there
